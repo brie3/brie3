@@ -1,12 +1,10 @@
-## About
-- 👋 Hi, I’m Rishat Ishbulatov aka @brie3 junior golang developer 
+- 👋 Hi, I’m Rishat Ishbulatov aka @brie3 junior golang backend developer 
 recently graduated from geekbrains go development department.
 Looking for a job as a backend developer.
-- 👀 I’m interested in golang, react, svelte.
+- 👀 I’m interested in golang, nodejs backend and react frontend.
 - 🌱 I’m currently learning backend production best practicies. 
 - 💞️ I’m looking to collaborate on apps that help people to improve and spend less time on boring stuff.
 - 📫 You can reach me via email b3r6i9@gmail.com
-
 
 ### Hard Skills:
 
@@ -24,6 +22,7 @@ Looking for a job as a backend developer.
 <img align="left" alt="Redis" height="26px" src="./readme-content/redis.png" />
 <img align="left" alt="Docker" height="26px" src="./readme-content/docker.png" />
 <img align="left" alt="Kubernetes" height="26px" src="./readme-content/kubernetes.png" />
+
 <img align="left" alt="RabbitMQ" height="26px" src="./readme-content/rabbitmq.png" />
 <img align="left" alt="Nats" height="26px" src="./readme-content/nats.png" />
 <img align="left" alt="Git" height="26px" src="./readme-content/git.png" />
