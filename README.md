@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Rishat Ishbulatov aka @brie3 middle backend developer 
-recently graduated from geekbrains go development department.
-Looking for a job as a backend developer.
+- 👋 Hi, I’m Rishat Ishbulatov aka @brie3 middle backend developer graduated from geekbrains go development department. If you have something interesting to offer, I will be glad to hear about it by email.
 - 👀 I’m interested in golang, nodejs backend and react frontend.
 - 🌱 I’m currently learning backend production best practicies. 
 - 💞️ I’m looking to collaborate on apps that help people to improve and spend less time on boring stuff.
