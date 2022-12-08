@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Rishat Ishbulatov aka @brie3 middle backend developer graduated from geekbrains go development department. If you have something interesting to offer, I will be glad to hear about it by email.
-- 👀 I’m interested in golang, nodejs backend and react frontend.
-- 🌱 I’m currently learning backend production best practicies. 
-- 💞️ I’m looking to collaborate on apps that help people to improve and spend less time on boring stuff.
-- 📫 You can reach me via email b3r6i9@gmail.com
+👋 Hey
+🔭 I’m currently working on
+  • golang
+🌱 I’m currently learning
+  • math
+  • python
+  • computer vision
+  • data science
 
-### Hard Skills:
+🛠 Languages and Tools:
 
 <img align="left" alt="Golang" height="26px" src="./readme-content/go.png" />
 <img align="left" alt="SQL" height="26px" src="./readme-content/sql.png" />
@@ -15,12 +18,10 @@
 <img align="left" alt="Grafana" height="26px" src="./readme-content/grafana.png" />
 <img align="left" alt="Mysql" height="26px" src="./readme-content/mysql.png" />
 <img align="left" alt="PostgreSQL" height="26px" src="./readme-content/postgres.png" />
-<img align="left" alt="NoSQL" height="26px" src="./readme-content/noslq.png" />
 <img align="left" alt="MongoDB" height="26px" src="./readme-content/mongoDB.png" />
 <img align="left" alt="Redis" height="26px" src="./readme-content/redis.png" />
 <img align="left" alt="Docker" height="26px" src="./readme-content/docker.png" />
 <img align="left" alt="Kubernetes" height="26px" src="./readme-content/kubernetes.png" />
-
 <img align="left" alt="RabbitMQ" height="26px" src="./readme-content/rabbitmq.png" />
 <img align="left" alt="Nats" height="26px" src="./readme-content/nats.png" />
 <img align="left" alt="Git" height="26px" src="./readme-content/git.png" />
@@ -31,8 +32,6 @@
 <img align="left" alt="HTML" height="26px" src="./readme-content/html.png" />
 <img align="left" alt="CSS" height="26px" src="./readme-content/css.png" />
 <img align="left" alt="Gitlab" height="26px" src="./readme-content/gitlab.png" />
-<img align="left" alt="Webpack" height="26px" src="./readme-content/webpack.png" />
-<img align="left" alt="React" height="26px" src="./readme-content/react.png" />
 <img align="left" alt="JS" height="26px" src="./readme-content/js.png" />
 <img align="left" alt="GraphQL" height="26px" src="./readme-content/graphql.png" />
 <img align="left" alt="S3" height="26px" src="./readme-content/s3.png" />
