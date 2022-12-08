@@ -1,14 +1,14 @@
-👋 Hey
-🔭 I’m currently working on
-  • golang
-🌱 I’m currently learning
-  • math
-  • python
-  • computer vision
-  • data science
-
-🛠 Languages and Tools:
-
+### 👋 Hey
+#### 🔭 I’m currently working on 
+* golang
+#### 🌱 I’m currently learning 
+* math
+* python
+* computer vision 
+* data science
+* golang
+### 🛠 &nbsp;Languages and Tools :
+<p>
 <img align="left" alt="Golang" height="26px" src="./readme-content/go.png" />
 <img align="left" alt="SQL" height="26px" src="./readme-content/sql.png" />
 <img align="left" alt="Protobuf" height="26px" src="./readme-content/protobuf.png" />
@@ -39,3 +39,4 @@
 <img align="left" alt="Express" height="26px" src="./readme-content/express.png" />
 <img align="left" alt="Kafka" height="26px" src="./readme-content/kafka.png" />
 <img align="left" alt="Node" height="26px" src="./readme-content/node.png" />
+</p>
